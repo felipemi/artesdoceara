@@ -1,0 +1,11 @@
+# robots.txt gerado em 
+# marketingdebusca.com.br/robots-txt/
+User-agent: Googlebot
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /phpMailer
+Disallow: /nbproject
+Disallow: /bat
